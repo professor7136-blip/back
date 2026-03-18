@@ -65,8 +65,8 @@ const io = new Server(server, {
       'http://localhost:3000',
       'https://wolverine-house.netlify.app',
       'http://wolverine-house.netlify.app',
-      "https://wolveriinehouse.vercel.app",
       "https://wolverinehoused.vercel.app",
+       "https://wolveriinehouse.vercel.app",
       "https://wolverinehousei.vercel.app",
       "https://wolverinehousee-o48wswp18-professor1s-projects.vercel.app",
 
