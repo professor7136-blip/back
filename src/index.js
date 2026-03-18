@@ -69,6 +69,7 @@ const io = new Server(server, {
        "https://wolveriinehouse.vercel.app",
       "https://wolverinehousei.vercel.app",
       "https://wolverinehousee-o48wswp18-professor1s-projects.vercel.app",
+      "https://wolverinehouseed-fd.vercel.app",
 
       
     ],
